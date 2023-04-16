@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/74143500/232194799-0acda87e-1fae-4f1c-
 <tr align="center">
 <table>
   <tbody>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adityajangiti"><img src="https://avatars.githubusercontent.com/u/71869254?v=4?s=100" width="100px;" alt="Aditya Jangiti"/><br /><sub><b>Aditya Jangiti</b></sub></a><br /><a href="#content-ktk04" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adityajangiti"><img src="https://avatars.githubusercontent.com/u/110121076?v=4" width="100px;" alt="Aditya Jangiti"/><br /><sub><b>Aditya Jangiti</b></sub></a><br /><a href="#content-ktk04" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SYSHIL"><img src="https://avatars.githubusercontent.com/u/62804977?v=4?s=100" width="100px;" alt="Syed Shahidh Ilhan F"/><br /><sub><b>Syed Shahidh Ilhan F</b></sub></a><br /><a href="#content-SYSHIL" title="Content">🖋</a> </td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhay-lal"><img src="https://avatars.githubusercontent.com/u/74143500?v=4?s=100" width="100px;" alt="Abhay Lal"/><br /><sub><b>Abhay Lal</b></sub></a><br /><a href="#content-abhay-lal" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Torque44"><img src="https://avatars.githubusercontent.com/u/71918979?v=4?s=100" width="100px;" alt="Ayushya Jain"/><br /><sub><b>Ayushya Jain</b></sub></a><br /><a href="#content-Torque44" title="Content">🖋</a> </td>
