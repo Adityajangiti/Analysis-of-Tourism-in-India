@@ -25,6 +25,4 @@ https://github.com/Adityajangiti/Analysis-of-Tourism-in-India/blob/main/Tourism%
   <tbody>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adityajangiti"><img src="https://avatars.githubusercontent.com/u/110121076?v=4" width="100px;" alt="Aditya Jangiti"/><br /><sub><b>Aditya Jangiti</b></sub></a><br /><a href="#content-ktk04" title="Content">🖋</a></td>
 
-    </tr>
-    <tr>
 
