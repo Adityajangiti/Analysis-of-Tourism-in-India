@@ -15,7 +15,7 @@ The dataset would be useful in analyzing the trend of tourism in India over the 
 Overall, this dataset can provide valuable insights into the tourism industry in India and can be used by tourism authorities, researchers, and businesses to make data-driven decisions.
 ## LINKS
 FLOURISH DASHBOARD : [Link](https://public.flourish.studio/story/1887086/)</br>
-DATA SOURCE : [Link](https://drive.google.com/drive/folders/1O8xboR5i-AUp4pSgdgW1xuP247y7X5OA)
+DATA SOURCE : [Link](https://drive.google.com/drive/folders/1O8xboR5i-AUp4pSgdgW1xuP247y7X5OA?usp=share_link)
 ## VIDEO
 https://github.com/Adityajangiti/Analysis-of-Tourism-in-India/blob/main/Tourism%20in%20India.mp4
 ## Contributors
